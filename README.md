@@ -49,4 +49,4 @@ The Power BI report is structured across three pages:
 * **Python (Pandas)** – For data cleaning and preprocessing
 * **Microsoft PowerPoint** – For final business presentation
 
----
+
