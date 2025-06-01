@@ -27,7 +27,7 @@ The Power BI report is structured across three pages:
 
 ## 📁 Files Included
 
-* `cleaned_car_prices.csv` – The dataset used for analysis
+* `Cleaned Dataset.zip` – The dataset used for analysis
 * `Car_Pricing_Presentation.`pdf – A PowerPoint deck summarizing insights
 * `Dashboard Screenshots.pdf` – Visual reference for the dashboard layout
 
